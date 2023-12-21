@@ -1,0 +1,16 @@
+html,
+body,
+:root {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+canvas {
+  width: 100vw; /* or a fixed pixel value */
+  height: 100vh; /* or a fixed pixel value */
+}
+
+#canvas {
+  background-color: black;
+}
