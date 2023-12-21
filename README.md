@@ -9,7 +9,7 @@ A dynamic particle system implemented in JavaScript using HTML5 Canvas. Particle
 
 ## Demo
 
-See the particle system in action with stroke connections in this [live demo](#).
+See the particle system in action with stroke connections in this [live demo](https://particle-kohl-nine.vercel.app/).
 
 ## Installation
 
